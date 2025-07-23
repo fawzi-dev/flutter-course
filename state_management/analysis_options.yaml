@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_single_quotes
+    - avoid_print
+    - unnecessary_string_interpolations
+    - prefer_const_constructors
+    - prefer_final_locals
+    - avoid_unnecessary_containers
+
+formatter:
+  trailing_commas: preserve
+  
